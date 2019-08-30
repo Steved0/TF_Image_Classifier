@@ -1,3 +1,5 @@
+// TensorFlow.js KNN Image Classifier with No Action Button Added
+
 const classifier = knnClassifier.create();
 const webcamElement = document.getElementById('webcam');
 var no_Action = false;
